@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App Netflix</string>
+    <string name="movie_cover_img">Imagem de capa do filme</string>
+</resources>
