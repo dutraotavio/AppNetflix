@@ -1,4 +1,4 @@
-package com.dutradev.appnetflix
+package com.dutradev.appnetflix.view.adapter
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,6 +6,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.dutradev.appnetflix.R
 import com.dutradev.appnetflix.model.Category
 
 // Lista vertical

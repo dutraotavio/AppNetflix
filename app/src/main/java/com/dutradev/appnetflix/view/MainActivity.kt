@@ -1,11 +1,13 @@
-package com.dutradev.appnetflix
+package com.dutradev.appnetflix.view
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.dutradev.appnetflix.R
 import com.dutradev.appnetflix.model.Category
 import com.dutradev.appnetflix.model.Movie
+import com.dutradev.appnetflix.view.adapter.CategoryAdapter
 
 class MainActivity : AppCompatActivity() {
 
