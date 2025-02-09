@@ -19,8 +19,10 @@
     <li><strong>Arquitetura Inicial e Modelos de Dados:</strong> Definição de uma base sólida para manipulação de dados.</li>
     <li><strong>Uso de Imagens e Proporções de Telas:</strong> Adaptação da interface para diferentes tamanhos de telas.</li>
     <li><strong>Listas Horizontais:</strong> Exibição de conteúdo com RecyclerView.</li>
+    <li><strong>Listas Aninhadas:</strong> Utilizando NestedLayout para deixar UI mais dinâmica.</li>
     <li><strong>Carrossel de Filmes:</strong> Implementação de carrossel com layout dinâmico e lógica para interação do usuário.</li>
     <li><strong>Placeholders:</strong> Melhorar a experiência de carregamento com placeholders para elementos visuais.</li>
+    <li><strong>Shadows:</strong> Estilizando com imagens.</li>
   </ul>
 
   <h2>Tecnologias Utilizadas</h2>
