@@ -19,7 +19,7 @@
     <li><strong>Estruturação do Projeto:</strong> Separação de classes e arquivos para organização clara e escalabilidade.</li>
     <li><strong>Arquitetura Inicial e Modelos de Dados:</strong> Definição de uma base sólida para manipulação de dados.</li>
     <li><strong>Uso de Imagens e Proporções de Telas:</strong> Adaptação da interface para diferentes tamanhos de telas.</li>
-    <li><strong>Listas Horizontais e Verticais:</strong> Exibição de conteúdo com ScrollView e RecyclerView.</li>
+    <li><strong>Listas Horizontais:</strong> Exibição de conteúdo com RecyclerView.</li>
     <li><strong>Carrossel de Filmes:</strong> Implementação de carrossel com layout dinâmico e lógica para interação do usuário.</li>
     <li><strong>Placeholders:</strong> Melhorar a experiência de carregamento com placeholders para elementos visuais.</li>
   </ul>
@@ -45,7 +45,7 @@
   <h2>Como Executar</h2>
   <ol>
     <li>Clone este repositório:</li>
-    <pre><code>git clone https://github.com/seu-usuario/AppNetflix.git</code></pre>
+    <pre><code>git clone https://github.com/dutraotavio/AppNetflix.git</code></pre>
     <li>Abra o projeto no Android Studio.</li>
     <li>Sincronize as dependências do Gradle.</li>
     <li>Execute o aplicativo em um emulador ou dispositivo físico.</li>
