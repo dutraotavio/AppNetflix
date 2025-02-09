@@ -22,7 +22,7 @@
     <li><strong>Listas Aninhadas:</strong> Utilizando NestedLayout para deixar UI mais dinâmica.</li>
     <li><strong>Carrossel de Filmes:</strong> Implementação de carrossel com layout dinâmico e lógica para interação do usuário.</li>
     <li><strong>Placeholders:</strong> Melhorar a experiência de carregamento com placeholders para elementos visuais.</li>
-    <li><strong>Shadows:</strong> Estilizando com imagens.</li>
+    <li><strong>Shadows:</strong> Estilizando imagens.</li>
   </ul>
 
   <h2>Tecnologias Utilizadas</h2>
