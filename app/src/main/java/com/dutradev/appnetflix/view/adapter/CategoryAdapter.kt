@@ -10,8 +10,10 @@ import com.dutradev.appnetflix.R
 import com.dutradev.appnetflix.model.Category
 
 // Lista vertical
-class CategoryAdapter(private val categories: List<Category>) :
-    RecyclerView.Adapter<CategoryAdapter.CategoryViewHolder>() {
+class CategoryAdapter(
+    private val categories: List<Category>,
+    val onItemClickListener: (Int) -> Unit
+) : RecyclerView.Adapter<CategoryAdapter.CategoryViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CategoryViewHolder {
         val view =
@@ -36,7 +38,7 @@ class CategoryAdapter(private val categories: List<Category>) :
             txtTitle.text = category.name
             rvCategory.layoutManager =
                 LinearLayoutManager(itemView.context, RecyclerView.HORIZONTAL, false)
-            rvCategory.adapter = MovieAdapter(category.movies, R.layout.movie_item)
+            rvCategory.adapter = MovieAdapter(category.movies, R.layout.movie_item, onItemClickListener)
         }
 
     }

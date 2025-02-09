@@ -22,6 +22,7 @@
     <li><strong>Listas Aninhadas:</strong> Utilizando NestedScrollView para deixar UI mais dinâmica.</li>
     <li><strong>Carrossel de Filmes:</strong> Implementação de carrossel com layout dinâmico e lógica para interação do usuário.</li>
     <li><strong>Placeholders:</strong> Melhorar a experiência de carregamento com placeholders para elementos visuais.</li>
+    <li><strong>Toolbar:</strong> Criando toolbar própria.</li>
     <li><strong>Shadows:</strong> Estilizando imagens.</li>
   </ul>
 
