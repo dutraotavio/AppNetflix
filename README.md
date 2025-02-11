@@ -16,13 +16,13 @@ Este projeto é um clone do aplicativo da Netflix, desenvolvido com o objetivo d
 - **Placeholders:** Melhorar a experiência de carregamento com placeholders para elementos visuais.
 - **Toolbar:** Criando toolbar própria.
 - **Shadows:** Estilizando imagens.
+- **API's:** Exibição de dados do servidor e carregamento de imagens via URL com Coil
 
 ## Tecnologias Utilizadas
 - **Linguagem:** Kotlin
 - **IDE:** Android Studio
 - **Gerenciamento de Dependências:** Gradle com Kotlin DSL
 - **Arquitetura:** MVC (Model-View-Controller)
-- **Componentes:** Jetpack Components (LiveData, ViewModel, Navigation)
 
 ## Funcionalidades Planejadas
 - Tela inicial com listas de filmes organizadas por categorias.
